@@ -1,2 +1,5 @@
 archive
 saved_models
+venv/
+*/venv/
+.*/
