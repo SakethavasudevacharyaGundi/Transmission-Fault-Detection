@@ -1,5 +1,8 @@
 pandapower
 numpy
+joblib
 pandas
 scikit-learn
-joblib
+matplotlib
+openpyxl
+
